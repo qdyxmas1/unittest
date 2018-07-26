@@ -18,5 +18,3 @@ https://oapi.dingtalk.com/robot/send?access_token=9abd2d571e04062a758732ec2b37b2
 	每次运行后端日照存放到WEB服务器上
 	
 	
-	
-	test
