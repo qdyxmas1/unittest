@@ -16,3 +16,7 @@ https://oapi.dingtalk.com/robot/send?access_token=9abd2d571e04062a758732ec2b37b2
 	测试主机收到hooks后触发更新该项目代码,然后调用单元测试
 ## 搭建WEB服务器 ##
 	每次运行后端日照存放到WEB服务器上
+	
+	
+	
+	test
