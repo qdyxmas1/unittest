@@ -21,13 +21,3 @@ https://oapi.dingtalk.com/robot/send?access_token=9abd2d571e04062a758732ec2b37b2
 Testing....
 http://xkool.f3322.net:8080/
 
-
-
-test
-
-4444
-44444
-enp1s0
-
-1111111111111111111111111111
-aaaaaaaaaaaaaaaaaaaa
